@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="Layer_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 overflow="visible" xml:space="preserve">
+<ellipse id="bg" fill="#FDEC38" cx="32" cy="32" rx="30.6" ry="30.7"/>
+<path id="icon" d="M32,0.1C14.4,0.1,0.1,14.4,0.1,32S14.4,64,32,64C49.6,64,63.9,49.6,63.9,32S49.6,0.1,32,0.1z M51.3,53.4l-3.6-5
+	l0.1-16.9L21.2,12.6L28,44.2l15.3,7.3l3.5,5.4c-4,2-10,4.5-14.8,4.5C15.8,61.4,2.6,48.2,2.6,32S15.8,2.6,32,2.6S61.4,15.8,61.4,32
+	C61.4,41.3,58,48,51.3,53.4z M44.3,33.5l-5.9,5L27.8,20.5L44.3,33.5z"/>
+</svg>
